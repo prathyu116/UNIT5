@@ -1,0 +1,20 @@
+table {
+  height: fit-content;
+}
+.table-details {
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #efefef;
+}
+
+tr:hover {
+  background-color: #d1d1d1;
+}

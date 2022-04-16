@@ -1,0 +1,28 @@
+.formDiv {
+  border: 1px solid red;
+  
+  display: flex;
+  align-items: flex-start;
+justify-content: space-around
+  
+}
+
+form {
+    border: 1px solid green;  
+    padding: 20px;
+}
+input {
+  /* width: 300px; */
+  height: 20px;
+}
+/* .box {
+    display: inline;
+    border: 1px solid red;
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+  
+} */
+.chekBoxx label{
+    border: 2px solid green;
+}
