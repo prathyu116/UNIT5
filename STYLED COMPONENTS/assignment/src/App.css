@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  border: 2px solid brown;
+  width: fit-content;
+  justify-content: center;
+  align-items: center;
+  margin: 20%;
+}
